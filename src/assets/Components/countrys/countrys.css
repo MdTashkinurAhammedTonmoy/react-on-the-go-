@@ -1,0 +1,15 @@
+.coutrys{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+
+
+.coutrys-visited{
+    background-color: aqua;
+}
+
+.visited-flag img{
+    width: 120px;
+    margin-right: 20px;
+}
